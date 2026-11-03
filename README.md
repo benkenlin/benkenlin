@@ -55,18 +55,18 @@ Docker • Git • Linux
 
 ## Education
 
-### MSc Computer Science & Engineering
-
-Research:
-Data-Intensive Scientific Workflow Scheduling on Heterogeneous Cloud Computing Resources
-
 ### MSc Financial Engineering (In Progress)
 
-WorldQuant University
+- WorldQuant University
+
+### MSc Computer Science & Engineering
+
+- Research:
+Data-Intensive Scientific Workflow Scheduling on Heterogeneous Cloud Computing Resources
 
 ### BSc Computer Science
 
-Final Year Project:
+- Final Year Project:
 Android-Based Afaan Oromo Text-to-Speech Synthesizer
 
 ---
