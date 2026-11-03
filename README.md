@@ -49,6 +49,32 @@ Docker • Git • Linux
 
 ---
 
+## Education
+
+### MSc Computer Science & Engineering
+
+Research:
+Data-Intensive Scientific Workflow Scheduling on Heterogeneous Cloud Computing Resources
+
+### MSc Financial Engineering (In Progress)
+
+WorldQuant University
+
+### BSc Computer Science
+
+Final Year Project:
+Android-Based Afaan Oromo Text-to-Speech Synthesizer
+
+---
+
+## Certifications
+
+- Kiifiya AI Mastery Program
+- Cisco Introduction to Data Science
+- Udacity Data Analysis Fundamentals
+
+---
+
 ## 🔬 Research & Projects
 
 ### Android-Based Afaan Oromo Text-to-Speech Synthesizer
@@ -59,13 +85,13 @@ Built an Android application capable of converting Afaan Oromo text into speech 
 
 MSc thesis focused on workflow scheduling, resource allocation, and cloud performance optimization.
 
----
+### Data Engineering Projects
 
-## 🎓 Education
+ETL pipelines, SQL analytics, and database engineering.
 
-- MSc Computer Science & Engineering
-- MSc Financial Engineering (In Progress)
-- BSc Computer Science
+### Machine Learning Projects
+
+Predictive modeling and data analytics solutions.
 
 ---
 
