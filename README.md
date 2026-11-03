@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Kenesa Bedasa.png" alt="GitHub Banner"/>
+  <img src="./asset/Kenesa Bedasa.png" alt="GitHub Banner"/>
 </p>
 <h1 align="center">Hi 👋, I'm Kenesa Bedasa</h1>
 
