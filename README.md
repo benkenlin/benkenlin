@@ -1,10 +1,15 @@
-# Hi, I'm Kenesa Bedasa 👋
 
-### Data Engineer | Machine Learning Engineer
+<h1 align="center">Hi 👋, I'm Kenesa Bedasa</h1>
 
-🎓 MSc Computer Science & Engineering
+<h3 align="center">
+Data Engineer | Machine Learning Engineer | MSc Computer Science & Engineering | Financial Engineering Candidate
+</h3>
 
-📚 Financial Engineering Candidate at WorldQuant University
+<p align="center">
+Passionate about Data Engineering, Machine Learning, Cloud Computing, AI, and Quantitative Analytics.
+</p>
+
+---
 
 ☁️ Research Interests:
 - Cloud Computing
@@ -13,53 +18,59 @@
 - Machine Learning
 - Artificial Intelligence
 
-## About Me
+## 🚀 About Me
 
 - 🎓 MSc in Computer Science & Engineering
-- 📚 MSc Financial Engineering Candidate at WorldQuant University
+- 📚 Financial Engineering Candidate at WorldQuant University
 - 👨‍🏫 Former University Lecturer
-- ☁️ Researcher in Cloud Computing and Distributed Systems
-- 🤖 Passionate about Data Engineering, Machine Learning, and AI
+- ☁️ Researcher in Cloud Computing & Distributed Systems
+- 🤖 Interested in AI, Data Engineering, and MLOps
+- 🌱 Currently learning Kubernetes, MLOps, and Financial Machine Learning
 
-## Technical Skills
+---
 
-- Python
-- SQL
-- Java
-- PostgreSQL
-- Docker
-- Git
-- Linux
-- Machine Learning
-- Data Engineering
-- Cloud Computing
+## 💻 Tech Stack
 
+### Languages
 
-## Featured Projects
+Python • SQL • Java • C++
+
+### Data Engineering
+
+PostgreSQL • MySQL • ETL • Pandas • NumPy
+
+### Machine Learning
+
+Scikit-Learn • PyTorch • Statistics • Data Analysis
+
+### Cloud & DevOps
+
+Docker • Git • Linux
+
+---
+
+## 🔬 Research & Projects
 
 ### Android-Based Afaan Oromo Text-to-Speech Synthesizer
 
-A mobile application that converts Afaan Oromo text into speech to support local language technology and accessibility.
+Built an Android application capable of converting Afaan Oromo text into speech to improve local language accessibility.
 
 ### Data-Intensive Scientific Workflow Scheduling on Heterogeneous Cloud Computing Resources
 
-MSc research focused on workflow scheduling, resource allocation, and performance optimisation in cloud environments.
+MSc thesis focused on workflow scheduling, resource allocation, and cloud performance optimization.
 
-## Connect
+---
+
+## 🎓 Education
+
+- MSc Computer Science & Engineering
+- MSc Financial Engineering (In Progress)
+- BSc Computer Science
+
+---
+
+## 🌐 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/kenesa-b-10a094b0/
 - Email: getkennyo@gmail.com
-<!--
-**benkenlin/benkenlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
