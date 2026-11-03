@@ -11,13 +11,6 @@ Passionate about Data Engineering, Machine Learning, Cloud Computing, AI, and Qu
 
 ---
 
-☁️ Research Interests:
-- Cloud Computing
-- Distributed Systems
-- Data Engineering
-- Machine Learning
-- Artificial Intelligence
-
 ## 🚀 About Me
 
 - 🎓 MSc in Computer Science & Engineering
